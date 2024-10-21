@@ -44,5 +44,4 @@ The dataset contains the following columns:
 - **Python**: Core language for data preprocessing, modeling, and feature engineering.
 - **Pandas**: Data manipulation and processing.
 - **Scikit-learn**: Machine learning models and evaluation metrics.
-- **Streamlit**: Deployed as a web app for CLV prediction.
 - **Matplotlib/Seaborn**: Data visualization for insights and analysis.
